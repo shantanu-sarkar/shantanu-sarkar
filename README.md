@@ -3,4 +3,4 @@
 
 ![](https://komarev.com/ghpvc/?username=shantanu-sarkar&color=red)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shantanu-sarkar&theme=neon-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shantanu-sarkar&theme=holi-theme&hide_border=true)](https://git.io/streak-stats)
