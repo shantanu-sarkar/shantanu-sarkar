@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Custom ROMs, Business and Finances**
 
-- 📫 My email: **shantanuplussarkar@gmail.com**
+- 📫 My email: **shantanusarkar@pixelexperience.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
