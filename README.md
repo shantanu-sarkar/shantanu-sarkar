@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Android Open Source Project** - Maintaining Pixel Experience and LineageOS for OnePlus 7
 
-- 🌱 I’m currently learning **Java, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Python, Data Structures and Algorithms**
 
 - 📫 My email: **shantanuplussarkar@gmail.com**
 
